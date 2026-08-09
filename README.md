@@ -168,13 +168,6 @@ SQL queries and MongoDB aggregation pipelines are used to process sales, invento
 
 ---
 
-# 📊 Project Status
-
-**Completion:** 80%
-
-INVEX is an actively developed full-stack business management system with core inventory, billing, stock management, and business analytics functionality implemented.
-
----
 
 # 📄 License
 
